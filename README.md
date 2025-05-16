@@ -1,2 +1,15 @@
-# Portfolio-guide
-Douglas' Portfolio.
+# ***Douglas' Portfolio***
+
+Welcome to my portfolio!  
+MY objective here is to provide a summary of my projects in multiple fields, including Data and AI.
+
+# Table of Contents
+
+* Data Analysis
+* Data Engineering
+* SQL
+* Python
+* PowerBi
+* AI
+
+
